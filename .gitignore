@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行产物
+result.json
+job.json
+*_out.json
+_f*.json
+_bili_course_cache.json
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
